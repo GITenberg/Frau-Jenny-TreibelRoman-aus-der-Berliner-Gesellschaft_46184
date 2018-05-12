@@ -1,0 +1,34 @@
+_repo: Frau-Jenny-TreibelRoman-aus-der-Berliner-Gesellschaft_46184
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46184-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fontane, Theodor
+    aliases:
+    - Fontane, Henri Theodore
+    - Fontane, Henri Théodore
+    - Fontane, Teodor
+    birthdate: 1819
+    deathdate: 1898
+    gutenberg_agent_id: '1765'
+    url: http://www.gutenberg.org/2009/agents/1765
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Theodor_Fontane
+    - http://de.wikipedia.org/wiki/Theodor_Fontane
+description: ''
+gutenberg_issued: '2014-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46184'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Berlin (Germany) -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'German fiction -- 19th century'
+title: 'Frau Jenny Treibel: Roman aus der Berliner Gesellschaft'
+url: http://www.gutenberg.org/ebooks/46184
