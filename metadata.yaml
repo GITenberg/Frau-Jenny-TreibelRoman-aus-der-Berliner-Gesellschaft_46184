@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Theodor_Fontane
     - http://de.wikipedia.org/wiki/Theodor_Fontane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46184#Frau-Jenny-TreibelRoman-aus-der-Berliner-Gesellschaft
 gutenberg_issued: '2014-07-03'
 gutenberg_type: Text
 identifiers:
